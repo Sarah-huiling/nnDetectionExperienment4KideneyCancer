@@ -1,4 +1,4 @@
-# nnDetectionExperienment4KideneyCancer
+# nnDetectionExperienment4KidneyCancer
 nnDetection Experiment for KideneyCancer T3RCC
 
 	
